@@ -1,4 +1,4 @@
-Huffman Coding
+# Huffman Coding
 
 ## Short Description
 
