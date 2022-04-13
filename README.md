@@ -1,4 +1,4 @@
-# Assignment 6: Huffman Coding
+Huffman Coding
 
 ## Short Description
 
@@ -32,9 +32,5 @@ make format
 ## Cleaning:
 
 make clean
-
-## Errors:
-
-Decoding encoded files with letters "L" and "I" may cause incorrect output.
 
 
